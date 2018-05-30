@@ -1,0 +1,15 @@
+.jumbotron-heading {
+  color: white;
+  font-family: Raleway;
+}
+
+.intro-text {
+  color: white;
+}
+
+.card-text-link {
+  color: #8F0D35;
+  text-transform: uppercase;
+  font-weight: 800;
+  list-style: none;
+}
